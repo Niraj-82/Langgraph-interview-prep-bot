@@ -59,6 +59,67 @@ try:
         QUESTION_BANK = json.load(f)
 except:
     QUESTION_BANK = []
+SAMPLE_ANSWERS: Dict[str, str] = {
+    "q1": (
+        "In my previous role at a fintech startup, we had a legacy billing service that "
+        "was frequently timing out (Situation). I was responsible for leading a small team "
+        "to modernize this backend and improve reliability (Task). I profiled the API, "
+        "optimized the most expensive SQL joins, added appropriate indexes, and introduced "
+        "caching for idempotent read endpoints (Action). As a result, average response time "
+        "dropped from about 900ms to 220ms, and timeouts in peak traffic reduced by nearly "
+        "80%, which significantly improved user experience and reduced support tickets (Result)."
+    ),
+    "q2": (
+        "SQL databases store structured data with a predefined schema and support ACID "
+        "transactions, making them ideal when data consistency is critical, like financial "
+        "transactions (Situation/Context). NoSQL databases are schema-flexible and scale "
+        "horizontally more easily, which is useful for large-scale, high-velocity or unstructured "
+        "data such as logs or social feeds (Explanation). I would choose SQL when I need strong "
+        "consistency, complex joins, and clear relational models—for example, an order "
+        "management system. I’d choose NoSQL when I need high write throughput, flexible "
+        "schemas, and partitioning, such as for analytics events or caching user session data."
+    ),
+    "q3": (
+        "At my previous company, I worked with a frontend developer who had a different view "
+        "on how to shape the API responses for a dashboard (Situation). My task was to align "
+        "on a contract that was efficient for the backend and convenient for the frontend "
+        "team (Task). I scheduled a short meeting, listened to their constraints, proposed "
+        "a slightly denormalized response for key endpoints, and documented the final contract "
+        "using OpenAPI so everyone agreed (Action). After that, integration bugs dropped, "
+        "and we reduced back-and-forth between teams by around 30%, speeding up releases (Result)."
+    ),
+    "q4": (
+        "For a simple blog application, I would design REST endpoints around core resources "
+        "like posts, comments, and users (Situation/Context). Example endpoints: "
+        "GET /posts, POST /posts, GET /posts/{id}, PUT/PATCH /posts/{id}, DELETE /posts/{id}, "
+        "and similarly for /posts/{id}/comments (Action). I would include pagination on list "
+        "endpoints, proper HTTP status codes, and authentication/authorization for creating "
+        "and editing posts. This design keeps the API predictable, easy to consume, and "
+        "ready for future features such as tags or categories (Result/Impact)."
+    ),
+    "q5": (
+        "When I joined my last team, they were migrating to Docker, which I had limited experience "
+        "with (Situation). My task was to containerize our existing backend service within two weeks "
+        "to support a new CI/CD pipeline (Task). I went through Docker’s docs, followed a couple of "
+        "practical tutorials, and experimented with small examples. Then I wrote a Dockerfile for "
+        "our app, externalized configuration via environment variables, and collaborated with DevOps "
+        "to set up a staging deployment (Action). We completed the migration on time, and build-to-deploy "
+        "time was reduced from about 30 minutes to under 10 minutes (Result)."
+    ),
+    "q11": (
+        "Based on my research and market standards for a Backend Developer with my experience in Python, "
+        "REST APIs, and Docker, I’m targeting a total compensation in the range of X to Y. That said, "
+        "I’m flexible and open to discussing the overall package, including growth opportunities, learning, "
+        "and benefits, to find something that works for both of us."
+    ),
+    "q12": (
+        "I appreciate the offer and your interest in me joining the team. My expectation was slightly higher "
+        "based on the role and market, mainly because of my experience with production systems and the value "
+        "I can bring. I’d like to understand if there’s any flexibility in the base salary or in other parts "
+        "of the package, such as bonus or learning budget. If we can get closer to my range, I’d be very excited "
+        "to accept and contribute here."
+    ),
+}
 
 def parse_job_description(state: InterviewState) -> dict:
     jd = state.get("job_description", "")
@@ -221,10 +282,24 @@ def evaluate_answer(state: InterviewState) -> dict:
     q = state["current_question"]
     if not q:
         return {}
-
     msgs = state["messages"]
-    ans = next((m.content for m in reversed(msgs) if isinstance(m, HumanMessage)), "")
+    ans = next((m.content for m in reversed(msgs) if isinstance(m, HumanMessage)), "").strip()
+
+    # If no real user answer was provided, fall back to a realistic sample
+    if not ans:
+        q = state["current_question"]
+        if q and q["id"] in SAMPLE_ANSWERS:
+            ans = SAMPLE_ANSWERS[q["id"]]
+        else:
+            # Generic fallback if no specific sample exists
+            ans = (
+                "In a recent role, I faced a challenging situation where I had to take ownership of "
+                "a problem, clarify the requirements, decide on an approach, and execute it end-to-end, "
+                "measuring the impact at the end."
+            )
+
     lower = ans.lower()
+
 
     star = {
         "S": any(w in lower for w in ["situation", "context", "background", "scenario", "role", "previous", "company", "corp"]),

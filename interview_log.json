@@ -2770,5 +2770,114 @@
         "time_taken_sec": 0.0
       }
     ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": {
+      "total_questions": 5,
+      "average_score": "3.54",
+      "overall_confidence": "Medium",
+      "star_coverage": "75%",
+      "behavioral_questions": 2,
+      "technical_questions": 2,
+      "strengths": [
+        "Good effort, keep practicing."
+      ],
+      "areas_to_improve": [
+        "Work on consistently applying the STAR method (Situation, Task, Action, Result)."
+      ],
+      "next_steps": [
+        "Review the feedback for each question to identify patterns.",
+        "Prepare 2-3 additional stories using the STAR method for common behavioral questions.",
+        "Practice articulating the impact of your work with measurable outcomes."
+      ]
+    },
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "At my previous company, I worked with a frontend developer who had a different view on how to shape the API responses for a dashboard (Situation). My task was to align on a contract that was efficient for the backend and convenient for the frontend team (Task). I scheduled a short meeting, listened to their constraints, proposed a slightly denormalized response for key endpoints, and documented the final contract using OpenAPI so everyone agreed (Action). After that, integration bugs dropped, and we reduced back-and-forth between teams by around 30%, speeding up releases (Result).",
+        "score": 4.25,
+        "confidence": "high",
+        "star_usage": {
+          "S": true,
+          "T": true,
+          "A": true,
+          "R": true
+        },
+        "feedback": "Feedback:\n\nScore: 4.25 / 5\n\nConfidence Level: High\n\nSTAR Coverage: S=Present, T=Present, A=Present, R=Present\n\nImprovement Suggestions:\n\u2022 You explained the situation, task, action, and result well.\n\u2022 Connect your answer more directly to the job description skills like Python, REST APIs, etc.\n\u2022 Excellent answer! Well-structured, relevant, and detailed.\n",
+        "time_taken_sec": 0.0017404556274414062
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "For a simple blog application, I would design REST endpoints around core resources like posts, comments, and users (Situation/Context). Example endpoints: GET /posts, POST /posts, GET /posts/{id}, PUT/PATCH /posts/{id}, DELETE /posts/{id}, and similarly for /posts/{id}/comments (Action). I would include pagination on list endpoints, proper HTTP status codes, and authentication/authorization for creating and editing posts. This design keeps the API predictable, easy to consume, and ready for future features such as tags or categories (Result/Impact).",
+        "score": 3.55,
+        "confidence": "medium",
+        "star_usage": {
+          "S": true,
+          "T": false,
+          "A": true,
+          "R": true
+        },
+        "feedback": "Feedback:\n\nScore: 3.55 / 5\n\nConfidence Level: Medium\n\nSTAR Coverage: S=Present, T=Missing, A=Present, R=Present\n\nImprovement Suggestions:\n\u2022 You explained the situation, task, and action well.\n\u2022 Good use of STAR elements.\n\u2022 Connect your answer more directly to the job description skills like Python, REST APIs, etc.\n\u2022 Good effort. Focus on the suggestions above to improve further.\n",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "followup_q4",
+        "user_answer": "In a recent role, I faced a challenging situation where I had to take ownership of a problem, clarify the requirements, decide on an approach, and execute it end-to-end, measuring the impact at the end.",
+        "score": 2.44,
+        "confidence": "low",
+        "star_usage": {
+          "S": true,
+          "T": false,
+          "A": false,
+          "R": true
+        },
+        "feedback": "Feedback:\n\nScore: 2.44 / 5\n\nConfidence Level: Low\n\nSTAR Coverage: S=Present, T=Missing, A=Missing, R=Present\n\nImprovement Suggestions:\n\u2022 Structure your answer using STAR: Missing T, A.\n\u2022 Good use of STAR elements.\n\u2022 Connect your answer more directly to the job description skills like Python, REST APIs, etc.\n\u2022 Add more details, examples, and metrics to strengthen your response.\n\u2022 This answer needs significant improvement. Review the STAR method and job description requirements.\n",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "When I joined my last team, they were migrating to Docker, which I had limited experience with (Situation). My task was to containerize our existing backend service within two weeks to support a new CI/CD pipeline (Task). I went through Docker\u2019s docs, followed a couple of practical tutorials, and experimented with small examples. Then I wrote a Dockerfile for our app, externalized configuration via environment variables, and collaborated with DevOps to set up a staging deployment (Action). We completed the migration on time, and build-to-deploy time was reduced from about 30 minutes to under 10 minutes (Result).",
+        "score": 5.0,
+        "confidence": "high",
+        "star_usage": {
+          "S": true,
+          "T": true,
+          "A": true,
+          "R": true
+        },
+        "feedback": "Feedback:\n\nScore: 5.00 / 5\n\nConfidence Level: High\n\nSTAR Coverage: S=Present, T=Present, A=Present, R=Present\n\nImprovement Suggestions:\n\u2022 You explained the situation, task, action, and result well.\n\u2022 Excellent answer! Well-structured, relevant, and detailed.\n",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q6",
+        "user_answer": "In a recent role, I faced a challenging situation where I had to take ownership of a problem, clarify the requirements, decide on an approach, and execute it end-to-end, measuring the impact at the end.",
+        "score": 2.44,
+        "confidence": "low",
+        "star_usage": {
+          "S": true,
+          "T": false,
+          "A": false,
+          "R": true
+        },
+        "feedback": "Feedback:\n\nScore: 2.44 / 5\n\nConfidence Level: Low\n\nSTAR Coverage: S=Present, T=Missing, A=Missing, R=Present\n\nImprovement Suggestions:\n\u2022 Structure your answer using STAR: Missing T, A.\n\u2022 Good use of STAR elements.\n\u2022 Connect your answer more directly to the job description skills like Python, REST APIs, etc.\n\u2022 Add more details, examples, and metrics to strengthen your response.\n\u2022 This answer needs significant improvement. Review the STAR method and job description requirements.\n",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "Based on my research and market standards for a Backend Developer with my experience in Python, REST APIs, and Docker, I\u2019m targeting a total compensation in the range of X to Y. That said, I\u2019m flexible and open to discussing the overall package, including growth opportunities, learning, and benefits, to find something that works for both of us.",
+        "score": 2.22,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Feedback:\n\nScore: 2.22 / 5\n\nConfidence Level: Low\n\nSTAR Coverage: S=Missing, T=Missing, A=Missing, R=Missing\n\nImprovement Suggestions:\n\u2022 Structure your answer using STAR: Missing S, T, A, R.\n\u2022 Include measurable impact for the Result, e.g. reduced outage time, improved response time, etc.\n\u2022 This answer needs significant improvement. Review the STAR method and job description requirements.\n",
+        "time_taken_sec": 0.0
+      }
+    ]
   }
 ]
