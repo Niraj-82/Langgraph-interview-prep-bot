@@ -1,0 +1,86 @@
+[
+  {
+    "id": "q1",
+    "text": "Walk me through a recent backend project you worked on. What was your role and what were your key contributions?",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "topic": "Experience"
+  },
+  {
+    "id": "q2",
+    "text": "Explain the difference between SQL and NoSQL databases. When would you choose one over the other?",
+    "type": "technical",
+    "difficulty": "easy",
+    "topic": "Databases"
+  },
+  {
+    "id": "q3",
+    "text": "Tell me about a time you had a conflict with a coworker. How did you resolve it?",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "topic": "Team Collaboration"
+  },
+  {
+    "id": "q4",
+    "text": "How would you design a REST API for a simple blog application? What endpoints would you create?",
+    "type": "technical",
+    "difficulty": "medium",
+    "topic": "System Design"
+  },
+  {
+    "id": "q5",
+    "text": "Describe a situation where you had to learn a new technology quickly for a project.",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "topic": "Adaptability"
+  },
+  {
+    "id": "q6",
+    "text": "What is the purpose of a Dockerfile and how does it differ from a Docker image?",
+    "type": "technical",
+    "difficulty": "medium",
+    "topic": "DevOps"
+  },
+  {
+    "id": "q7",
+    "text": "Tell me about a time you debugged a complex production issue. What was your process?",
+    "type": "behavioral",
+    "difficulty": "hard",
+    "topic": "Problem Solving"
+  },
+  {
+    "id": "q8",
+    "text": "How would you design a system to handle millions of concurrent users for a real-time application?",
+    "type": "technical",
+    "difficulty": "hard",
+    "topic": "System Design"
+  },
+  {
+    "id": "q9",
+    "text": "Describe a project that failed. What did you learn from that experience?",
+    "type": "behavioral",
+    "difficulty": "hard",
+    "topic": "Ownership"
+  },
+  {
+    "id": "q10",
+    "text": "Explain the concept of idempotency in the context of REST APIs and why it is important.",
+    "type": "technical",
+    "difficulty": "hard",
+    "topic": "REST APIs"
+  },
+  {
+    "id": "q11",
+    "text": "What are your salary expectations for this role?",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "topic": "Salary"
+  },
+  {
+    "id": "q12",
+    "text": "Imagine we offered you a salary that is 10% lower than your expectation. How would you respond?",
+    "type": "behavioral",
+    "difficulty": "hard",
+    "topic": "Salary"
+  }
+]

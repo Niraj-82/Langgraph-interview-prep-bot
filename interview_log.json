@@ -1,0 +1,2774 @@
+[
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": "Mock interview complete. Average score: 0.88/5.",
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "Start interview.",
+        "score": 0.88,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.88/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "Start interview.",
+        "score": 0.88,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.88/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.002009153366088867
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": "Mock interview complete. Average score: 0.88/5.",
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "Start interview.",
+        "score": 0.88,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.88/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "Start interview.",
+        "score": 0.88,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.88/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": "Mock interview complete. Average score: 0.88/5.",
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "Start interview.",
+        "score": 0.88,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.88/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "Start interview.",
+        "score": 0.88,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.88/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": "Mock interview complete. Average score: 0.96/5.",
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0020105838775634766
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.002011537551879883
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0020089149475097656
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.013781547546386719
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": "Mock interview complete. Average score: 0.96/5.",
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.01664257049560547
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": "Mock interview complete. Average score: 0.96/5.",
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0010769367218017578
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0006380081176757812
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0006594657897949219
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0010952949523925781
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0005588531494140625
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0028104782104492188
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": "Mock interview complete. Average score: 0.96/5.",
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": "Mock interview complete. Average score: 0.96/5.",
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0010137557983398438
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0006155967712402344
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0010678768157958984
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": "Mock interview complete. Average score: 0.96/5.",
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0018138885498046875
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0071485042572021484
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0033698081970214844
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.003084421157836914
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": "Mock interview complete. Average score: 0.96/5.",
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0010483264923095703
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0008416175842285156
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.001461029052734375
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0004870891571044922
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0009577274322509766
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": "Mock interview complete. Average score: 0.96/5.",
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0009834766387939453
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0009236335754394531
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0016744136810302734
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0019502639770507812
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": "Mock interview complete. Average score: 0.96/5.",
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0010013580322265625
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0034203529357910156
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": "Mock interview complete. Average score: 0.96/5.",
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0004744529724121094
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0020074844360351562
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": "Mock interview complete. Average score: 0.96/5.",
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.00200653076171875
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.00099945068359375
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": "Mock interview complete. Average score: 0.96/5.",
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0010013580322265625
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0011506080627441406
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0009758472442626953
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0005202293395996094
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.00724029541015625
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": "Mock interview complete. Average score: 0.96/5.",
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0010714530944824219
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0014789104461669922
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0025849342346191406
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": "Mock interview complete. Average score: 0.96/5.",
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0013189315795898438
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0008940696716308594
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0018768310546875
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0021915435791015625
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": "Mock interview complete. Average score: 0.96/5.",
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": {
+      "total_questions": 5,
+      "average_score": "0.96",
+      "average_star_coverage": "0%",
+      "strengths": [
+        "Good effort, keep practicing."
+      ],
+      "areas_to_improve": [
+        "Focus on providing more detailed and structured answers.",
+        "Work on consistently applying the STAR method (Situation, Task, Action, Result).",
+        "Elaborate more on the results and impact of your actions."
+      ],
+      "next_steps": [
+        "Review the feedback for each question to identify patterns.",
+        "Prepare 2-3 additional stories using the STAR method for common behavioral questions.",
+        "Practice articulating the impact of your work with measurable outcomes."
+      ]
+    },
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": {
+      "total_questions": 5,
+      "average_score": "0.96",
+      "average_star_coverage": "0%",
+      "strengths": [
+        "Good effort, keep practicing."
+      ],
+      "areas_to_improve": [
+        "Focus on providing more detailed and structured answers.",
+        "Work on consistently applying the STAR method (Situation, Task, Action, Result).",
+        "Elaborate more on the results and impact of your actions."
+      ],
+      "next_steps": [
+        "Review the feedback for each question to identify patterns.",
+        "Prepare 2-3 additional stories using the STAR method for common behavioral questions.",
+        "Practice articulating the impact of your work with measurable outcomes."
+      ]
+    },
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": {
+      "total_questions": 5,
+      "average_score": "0.96",
+      "average_star_coverage": "0%",
+      "strengths": [
+        "Good effort, keep practicing."
+      ],
+      "areas_to_improve": [
+        "Focus on providing more detailed and structured answers.",
+        "Work on consistently applying the STAR method (Situation, Task, Action, Result).",
+        "Elaborate more on the results and impact of your actions."
+      ],
+      "next_steps": [
+        "Review the feedback for each question to identify patterns.",
+        "Prepare 2-3 additional stories using the STAR method for common behavioral questions.",
+        "Practice articulating the impact of your work with measurable outcomes."
+      ]
+    },
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0007965564727783203
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": {
+      "total_questions": 5,
+      "average_score": "0.96",
+      "average_star_coverage": "0%",
+      "strengths": [
+        "Good effort, keep practicing."
+      ],
+      "areas_to_improve": [
+        "Focus on providing more detailed and structured answers.",
+        "Work on consistently applying the STAR method (Situation, Task, Action, Result).",
+        "Elaborate more on the results and impact of your actions."
+      ],
+      "next_steps": [
+        "Review the feedback for each question to identify patterns.",
+        "Prepare 2-3 additional stories using the STAR method for common behavioral questions.",
+        "Practice articulating the impact of your work with measurable outcomes."
+      ]
+    },
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0009496212005615234
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0010008811950683594
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": {
+      "total_questions": 5,
+      "average_score": "0.96",
+      "average_star_coverage": "0%",
+      "strengths": [
+        "Good effort, keep practicing."
+      ],
+      "areas_to_improve": [
+        "Focus on providing more detailed and structured answers.",
+        "Work on consistently applying the STAR method (Situation, Task, Action, Result).",
+        "Elaborate more on the results and impact of your actions."
+      ],
+      "next_steps": [
+        "Review the feedback for each question to identify patterns.",
+        "Prepare 2-3 additional stories using the STAR method for common behavioral questions.",
+        "Practice articulating the impact of your work with measurable outcomes."
+      ]
+    },
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.003179311752319336
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": {
+      "total_questions": 5,
+      "average_score": "0.96",
+      "average_star_coverage": "0%",
+      "strengths": [
+        "Good effort, keep practicing."
+      ],
+      "areas_to_improve": [
+        "Focus on providing more detailed and structured answers.",
+        "Work on consistently applying the STAR method (Situation, Task, Action, Result).",
+        "Elaborate more on the results and impact of your actions."
+      ],
+      "next_steps": [
+        "Review the feedback for each question to identify patterns.",
+        "Prepare 2-3 additional stories using the STAR method for common behavioral questions.",
+        "Practice articulating the impact of your work with measurable outcomes."
+      ]
+    },
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": {
+      "total_questions": 5,
+      "average_score": "0.83",
+      "average_star_coverage": "0%",
+      "strengths": [
+        "Good effort, keep practicing."
+      ],
+      "areas_to_improve": [
+        "Focus on providing more detailed and structured answers.",
+        "Work on consistently applying the STAR method (Situation, Task, Action, Result).",
+        "Elaborate more on the results and impact of your actions."
+      ],
+      "next_steps": [
+        "Review the feedback for each question to identify patterns.",
+        "Prepare 2-3 additional stories using the STAR method for common behavioral questions.",
+        "Practice articulating the impact of your work with measurable outcomes."
+      ]
+    },
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "",
+        "score": 0.83,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.83/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "",
+        "score": 0.83,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.83/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.00621485710144043
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "",
+        "score": 0.83,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.83/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "",
+        "score": 0.83,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.83/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "",
+        "score": 0.83,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.83/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "",
+        "score": 0.83,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.83/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": {
+      "total_questions": 5,
+      "average_score": "0.96",
+      "average_star_coverage": "0%",
+      "strengths": [
+        "Good effort, keep practicing."
+      ],
+      "areas_to_improve": [
+        "Focus on providing more detailed and structured answers.",
+        "Work on consistently applying the STAR method (Situation, Task, Action, Result).",
+        "Elaborate more on the results and impact of your actions."
+      ],
+      "next_steps": [
+        "Review the feedback for each question to identify patterns.",
+        "Prepare 2-3 additional stories using the STAR method for common behavioral questions.",
+        "Practice articulating the impact of your work with measurable outcomes."
+      ]
+    },
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.011185646057128906
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.003194093704223633
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": {
+      "total_questions": 5,
+      "average_score": "0.96",
+      "average_star_coverage": "0%",
+      "strengths": [
+        "Good effort, keep practicing."
+      ],
+      "areas_to_improve": [
+        "Focus on providing more detailed and structured answers.",
+        "Work on consistently applying the STAR method (Situation, Task, Action, Result).",
+        "Elaborate more on the results and impact of your actions."
+      ],
+      "next_steps": [
+        "Review the feedback for each question to identify patterns.",
+        "Prepare 2-3 additional stories using the STAR method for common behavioral questions.",
+        "Practice articulating the impact of your work with measurable outcomes."
+      ]
+    },
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.96,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.96/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": {
+      "total_questions": 5,
+      "average_score": "0.82",
+      "average_star_coverage": "0%",
+      "strengths": [
+        "Good effort, keep practicing."
+      ],
+      "areas_to_improve": [
+        "Focus on providing more detailed and structured answers.",
+        "Work on consistently applying the STAR method (Situation, Task, Action, Result).",
+        "Elaborate more on the results and impact of your actions."
+      ],
+      "next_steps": [
+        "Review the feedback for each question to identify patterns.",
+        "Prepare 2-3 additional stories using the STAR method for common behavioral questions.",
+        "Practice articulating the impact of your work with measurable outcomes."
+      ]
+    },
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.82,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.82/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.82,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.82/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.82,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.82/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.82,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.82/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.82,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.82/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.82,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Score 0.82/5. Confidence low. Missing STAR elements: S, T, A, R. Add more details. Connect to key JD skills.",
+        "time_taken_sec": 0.0
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": {
+      "total_questions": 5,
+      "average_score": "0.82",
+      "overall_confidence": "Low",
+      "star_coverage": "0%",
+      "behavioral_questions": 3,
+      "technical_questions": 2,
+      "strengths": [
+        "Good effort, keep practicing."
+      ],
+      "areas_to_improve": [
+        "Focus on providing more detailed and structured answers.",
+        "Work on consistently applying the STAR method (Situation, Task, Action, Result).",
+        "Elaborate more on the results and impact of your actions."
+      ],
+      "next_steps": [
+        "Review the feedback for each question to identify patterns.",
+        "Prepare 2-3 additional stories using the STAR method for common behavioral questions.",
+        "Practice articulating the impact of your work with measurable outcomes."
+      ]
+    },
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.82,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Feedback:\n\nScore: 0.82 / 5\n\nConfidence Level: Low\n\nSTAR Coverage: S=\u2717, T=\u2717, A=\u2717, R=\u2717\n\nImprovement Suggestions:\n\u2022 Structure your answer using STAR: Missing S, T, A, R.\n\u2022 Include measurable impact for the Result, e.g. reduced outage time, improved response time, etc.\n\u2022 Connect your answer more directly to the job description skills like Python, REST APIs, etc.\n\u2022 Add more details, examples, and metrics to strengthen your response.\n\u2022 This answer needs significant improvement. Review the STAR method and job description requirements.\n",
+        "time_taken_sec": 0.002007722854614258
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.82,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Feedback:\n\nScore: 0.82 / 5\n\nConfidence Level: Low\n\nSTAR Coverage: S=\u2717, T=\u2717, A=\u2717, R=\u2717\n\nImprovement Suggestions:\n\u2022 Structure your answer using STAR: Missing S, T, A, R.\n\u2022 Include measurable impact for the Result, e.g. reduced outage time, improved response time, etc.\n\u2022 Connect your answer more directly to the job description skills like Python, REST APIs, etc.\n\u2022 Add more details, examples, and metrics to strengthen your response.\n\u2022 This answer needs significant improvement. Review the STAR method and job description requirements.\n",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.82,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Feedback:\n\nScore: 0.82 / 5\n\nConfidence Level: Low\n\nSTAR Coverage: S=\u2717, T=\u2717, A=\u2717, R=\u2717\n\nImprovement Suggestions:\n\u2022 Structure your answer using STAR: Missing S, T, A, R.\n\u2022 Include measurable impact for the Result, e.g. reduced outage time, improved response time, etc.\n\u2022 Connect your answer more directly to the job description skills like Python, REST APIs, etc.\n\u2022 Add more details, examples, and metrics to strengthen your response.\n\u2022 This answer needs significant improvement. Review the STAR method and job description requirements.\n",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.82,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Feedback:\n\nScore: 0.82 / 5\n\nConfidence Level: Low\n\nSTAR Coverage: S=\u2717, T=\u2717, A=\u2717, R=\u2717\n\nImprovement Suggestions:\n\u2022 Structure your answer using STAR: Missing S, T, A, R.\n\u2022 Include measurable impact for the Result, e.g. reduced outage time, improved response time, etc.\n\u2022 Connect your answer more directly to the job description skills like Python, REST APIs, etc.\n\u2022 Add more details, examples, and metrics to strengthen your response.\n\u2022 This answer needs significant improvement. Review the STAR method and job description requirements.\n",
+        "time_taken_sec": 0.0013093948364257812
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.82,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Feedback:\n\nScore: 0.82 / 5\n\nConfidence Level: Low\n\nSTAR Coverage: S=\u2717, T=\u2717, A=\u2717, R=\u2717\n\nImprovement Suggestions:\n\u2022 Structure your answer using STAR: Missing S, T, A, R.\n\u2022 Include measurable impact for the Result, e.g. reduced outage time, improved response time, etc.\n\u2022 Connect your answer more directly to the job description skills like Python, REST APIs, etc.\n\u2022 Add more details, examples, and metrics to strengthen your response.\n\u2022 This answer needs significant improvement. Review the STAR method and job description requirements.\n",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "I am ready for the interview.",
+        "score": 0.82,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Feedback:\n\nScore: 0.82 / 5\n\nConfidence Level: Low\n\nSTAR Coverage: S=\u2717, T=\u2717, A=\u2717, R=\u2717\n\nImprovement Suggestions:\n\u2022 Structure your answer using STAR: Missing S, T, A, R.\n\u2022 Include measurable impact for the Result, e.g. reduced outage time, improved response time, etc.\n\u2022 Connect your answer more directly to the job description skills like Python, REST APIs, etc.\n\u2022 Add more details, examples, and metrics to strengthen your response.\n\u2022 This answer needs significant improvement. Review the STAR method and job description requirements.\n",
+        "time_taken_sec": 0.0
+      }
+    ]
+  },
+  {
+    "job_description": "Backend Python developer experienced in REST APIs, SQL, Docker.",
+    "user_role": "Backend Developer",
+    "final_report": {
+      "total_questions": 5,
+      "average_score": "0.75",
+      "overall_confidence": "Low",
+      "star_coverage": "0%",
+      "behavioral_questions": 3,
+      "technical_questions": 2,
+      "strengths": [
+        "Good effort, keep practicing."
+      ],
+      "areas_to_improve": [
+        "Focus on providing more detailed and structured answers.",
+        "Work on consistently applying the STAR method (Situation, Task, Action, Result).",
+        "Elaborate more on the results and impact of your actions."
+      ],
+      "next_steps": [
+        "Review the feedback for each question to identify patterns.",
+        "Prepare 2-3 additional stories using the STAR method for common behavioral questions.",
+        "Practice articulating the impact of your work with measurable outcomes."
+      ]
+    },
+    "answers": [
+      {
+        "question_id": "q3",
+        "user_answer": "",
+        "score": 0.75,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Feedback:\n\nScore: 0.75 / 5\n\nConfidence Level: Low\n\nSTAR Coverage: S=Missing, T=Missing, A=Missing, R=Missing\n\nImprovement Suggestions:\n\u2022 Structure your answer using STAR: Missing S, T, A, R.\n\u2022 Include measurable impact for the Result, e.g. reduced outage time, improved response time, etc.\n\u2022 Connect your answer more directly to the job description skills like Python, REST APIs, etc.\n\u2022 Add more details, examples, and metrics to strengthen your response.\n\u2022 This answer needs significant improvement. Review the STAR method and job description requirements.\n",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q1",
+        "user_answer": "",
+        "score": 0.75,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Feedback:\n\nScore: 0.75 / 5\n\nConfidence Level: Low\n\nSTAR Coverage: S=Missing, T=Missing, A=Missing, R=Missing\n\nImprovement Suggestions:\n\u2022 Structure your answer using STAR: Missing S, T, A, R.\n\u2022 Include measurable impact for the Result, e.g. reduced outage time, improved response time, etc.\n\u2022 Connect your answer more directly to the job description skills like Python, REST APIs, etc.\n\u2022 Add more details, examples, and metrics to strengthen your response.\n\u2022 This answer needs significant improvement. Review the STAR method and job description requirements.\n",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q2",
+        "user_answer": "",
+        "score": 0.75,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Feedback:\n\nScore: 0.75 / 5\n\nConfidence Level: Low\n\nSTAR Coverage: S=Missing, T=Missing, A=Missing, R=Missing\n\nImprovement Suggestions:\n\u2022 Structure your answer using STAR: Missing S, T, A, R.\n\u2022 Include measurable impact for the Result, e.g. reduced outage time, improved response time, etc.\n\u2022 Connect your answer more directly to the job description skills like Python, REST APIs, etc.\n\u2022 Add more details, examples, and metrics to strengthen your response.\n\u2022 This answer needs significant improvement. Review the STAR method and job description requirements.\n",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q4",
+        "user_answer": "",
+        "score": 0.75,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Feedback:\n\nScore: 0.75 / 5\n\nConfidence Level: Low\n\nSTAR Coverage: S=Missing, T=Missing, A=Missing, R=Missing\n\nImprovement Suggestions:\n\u2022 Structure your answer using STAR: Missing S, T, A, R.\n\u2022 Include measurable impact for the Result, e.g. reduced outage time, improved response time, etc.\n\u2022 Connect your answer more directly to the job description skills like Python, REST APIs, etc.\n\u2022 Add more details, examples, and metrics to strengthen your response.\n\u2022 This answer needs significant improvement. Review the STAR method and job description requirements.\n",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q5",
+        "user_answer": "",
+        "score": 0.75,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Feedback:\n\nScore: 0.75 / 5\n\nConfidence Level: Low\n\nSTAR Coverage: S=Missing, T=Missing, A=Missing, R=Missing\n\nImprovement Suggestions:\n\u2022 Structure your answer using STAR: Missing S, T, A, R.\n\u2022 Include measurable impact for the Result, e.g. reduced outage time, improved response time, etc.\n\u2022 Connect your answer more directly to the job description skills like Python, REST APIs, etc.\n\u2022 Add more details, examples, and metrics to strengthen your response.\n\u2022 This answer needs significant improvement. Review the STAR method and job description requirements.\n",
+        "time_taken_sec": 0.0
+      },
+      {
+        "question_id": "q11",
+        "user_answer": "",
+        "score": 0.75,
+        "confidence": "low",
+        "star_usage": {
+          "S": false,
+          "T": false,
+          "A": false,
+          "R": false
+        },
+        "feedback": "Feedback:\n\nScore: 0.75 / 5\n\nConfidence Level: Low\n\nSTAR Coverage: S=Missing, T=Missing, A=Missing, R=Missing\n\nImprovement Suggestions:\n\u2022 Structure your answer using STAR: Missing S, T, A, R.\n\u2022 Include measurable impact for the Result, e.g. reduced outage time, improved response time, etc.\n\u2022 Connect your answer more directly to the job description skills like Python, REST APIs, etc.\n\u2022 Add more details, examples, and metrics to strengthen your response.\n\u2022 This answer needs significant improvement. Review the STAR method and job description requirements.\n",
+        "time_taken_sec": 0.0
+      }
+    ]
+  }
+]
